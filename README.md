@@ -47,3 +47,29 @@ Matplotlib / Seaborn – Data visualization
 Scikit-learn – Machine learning models
 
 Jupyter Notebook
+
+## 🔍 Workflow
+
+Data Loading
+
+Data Cleaning & Preprocessing
+
+Feature Engineering
+
+Train-Test Split
+
+Model Training
+
+Model Evaluation
+
+Loan Pricing Prediction
+
+## 🎯 Use Cases
+
+Banking & Financial Institutions
+
+NBFC Loan Risk Assessment
+
+FinTech Credit Scoring
+
+Automated Loan Approval Systems
