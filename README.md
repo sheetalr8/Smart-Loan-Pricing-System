@@ -1,4 +1,4 @@
-#💰 Smart Loan Pricing System
+# 💰 Smart Loan Pricing System
 
 An intelligent Machine Learning-based system that predicts optimal loan pricing based on applicant risk factors and financial attributes.
 This project helps financial institutions automate interest rate decisions using data-driven insights.
